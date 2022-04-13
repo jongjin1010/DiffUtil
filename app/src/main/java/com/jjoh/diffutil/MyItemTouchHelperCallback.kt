@@ -40,4 +40,6 @@ class MyItemTouchHelperCallback(private val recyclerview: RecyclerView) :
                 (viewHolder as MyViewHolder).setAlpha(1.0f)
         }
 
+
+
 }
